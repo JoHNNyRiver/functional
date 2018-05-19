@@ -1,0 +1,24 @@
+{
+  "name": "functional",
+  "version": "1.0.0",
+  "description": "Programação funcinal com javascript (iniciante)",
+  "main": "prime.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoHNNyRiver/functional.git"
+  },
+  "keywords": [
+    "functional",
+    "javascript",
+    "js"
+  ],
+  "author": "João Ribeiro <jlribeiroaugusto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoHNNyRiver/functional/issues"
+  },
+  "homepage": "https://github.com/JoHNNyRiver/functional#readme"
+}
