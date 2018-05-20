@@ -1,7 +1,9 @@
 const prime = require('./project/prime')
+const fizzBuzz = require('./project/fizzBuzz')
 
 const functional = {
-  prime
+  prime,
+  fizzBuzz
 }
 
 module.exports = functional
